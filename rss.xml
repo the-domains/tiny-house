@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tiny House]]></title>
+        <description><![CDATA[Tiny House]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 01:18:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[So I think a Tiny House is in my future. ]]></title>
+            <description><![CDATA[<article><h1>So I think a Tiny House is in my future. </h1><p>Tumbleweed Tiny House RVs range from 117 to 180 square feet. It's unlike any RV you've ever seen before. 100's of options to customize your Tumbleweed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22e3259ec269999f98277444f5c8f3b6c63efa34.jpg"></article>]]></description>
+            <link>undefinedso-i-think-a-tiny-house-is-in-my-future/index.html</link>
+            <guid isPermaLink="false">e4b565b9-9675-4dd3-b4fa-ffbc0fa06274</guid>
+            <pubDate>Fri, 04 Mar 2016 01:15:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
