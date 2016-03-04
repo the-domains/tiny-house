@@ -1,0 +1,14 @@
+layout_spectrum: 0.953276
+color:
+  saturation: 0.1339317
+  lightness: 0.7728249
+  brandStrength: 0.5042965
+  brandColors:
+    - '#271F16'
+    - '#5C4B42'
+    - '#B4C6E8'
+    - '#914B03'
+    - '#F1D99A'
+  rhythmicContrast: 0.496189
+typography_spectrum: 0.8823845
+name: Tiny House
